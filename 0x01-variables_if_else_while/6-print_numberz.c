@@ -4,6 +4,7 @@
  * main - Entry point
  *
  * Return: Always 0 (Success)
+ *main function of the program
  */
 int main(void)
 {
