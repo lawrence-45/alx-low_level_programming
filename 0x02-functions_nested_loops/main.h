@@ -16,7 +16,7 @@ int _abs(int);
 
 void jack_bauer(void);
 
-void time_table(void);
+void times_table(void);
 
 int add(int, int);
 
