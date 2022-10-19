@@ -4,7 +4,7 @@ int _putchar(char myletter);
 
 void print_alphabet(void);
 
-void Print_alphabet_x10(void);
+void print_alphabet_x10(void);
 
 int _islower(int c);
 
