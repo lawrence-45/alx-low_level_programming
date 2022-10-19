@@ -20,8 +20,8 @@ int main(void)
 		printf("%lu, ", c);
 		a = b;
 		b = c;
-		c = a + b
-	};
+		c = a + b;
+	}
 		b1 = b / 1000000000,
 		b2 = b % 1000000000;
 		c1 = c / 1000000000;
