@@ -1,0 +1,10 @@
+int _isupper(int a);
+int _isdigit(int a);
+int mul(int a, int b);
+void print_numbers(void);
+int _putchar(char a);
+void print_most_number(void);
+void more_numbers(void);
+void print_line(int n);
+void print_diagonal(int n);
+void print_square(int size);
